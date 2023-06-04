@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abhineshh
 - 👀 I’m interested in learning and building things
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on development and problem-solving works and
+- 💞️ I’m looking to collaborate on developing tech software
 - 📫 Reach me via abhinesh.on@gmail.com
 
 <!---
