@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhineshh
-- 🪒 Nodejs Developer | MERN Stack Developer
+- 🪒 Golang Developer | Nodejs Developer | MERN Stack Developer
 - 💞️ I’m interested in learning and building things
 - 👀 I’m looking to collaborate on developing tech software
 - 📫 Reach me via abhineshwill@gmail.com
