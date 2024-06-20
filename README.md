@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhineshh
-- 🪒 Engineer | Software | Golang | C++ | Rust | Nodejs | Python | MERN Stack Developer
+- 🪒 Engineer | Android Application developer | Kotlin | Golang | C/C++ | Rust | Nodejs | Python | MERN Stack Developer
 - 💞️ I’m Enthralled in learning and building Magical Things
 - 👀 I’m Hunting to solving problems with engineering and science
 - 📫 Reach me via abhineshwill@gmail.com
